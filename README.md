@@ -1,0 +1,1 @@
+# Clasificaci-n-de-Im-genes-de-Patos-y-Gansos-utilizando-Redes-Neuronales-Convolucionales-
